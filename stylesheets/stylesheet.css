@@ -731,7 +731,7 @@ blockquote {
 ul {
   list-style: none;
   font-size: 18px;
-  list-style-position: outside;
+  text-align: left;
 }
 
 ol {
