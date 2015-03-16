@@ -729,6 +729,7 @@ blockquote {
 }
 
 ul {
+  position: align-left;
   list-style: none;
   font-size: 18px;
 }
