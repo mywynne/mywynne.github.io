@@ -729,9 +729,9 @@ blockquote {
 }
 
 ul {
-  position: align-left;
   list-style: none;
   font-size: 18px;
+  list-style-position: outside;
 }
 
 ol {
