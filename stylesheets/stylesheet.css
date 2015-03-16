@@ -730,8 +730,9 @@ blockquote {
 
 ul {
   list-style-position: inside;
-  list-style: disc;
+  list-style: none;
   padding-left: 20px;
+  font-size: 18px;
 }
 
 ol {
