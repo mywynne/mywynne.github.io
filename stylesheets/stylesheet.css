@@ -606,6 +606,21 @@ td {
   border: 1px solid #ebebeb;
 }
 
+table2 {
+  width: 100%;
+  border: 0px;
+}
+
+th2 {
+  font-weight: 500;
+}
+
+td2 {
+  font-weight: 300;
+  text-align: left;
+  border: 1px solid #ebebeb;
+}
+
 form {
   padding: 20px;
   background: #f2f2f2;
