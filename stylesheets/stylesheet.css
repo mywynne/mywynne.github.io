@@ -606,24 +606,6 @@ td {
   border: 1px solid #ffffff;
 }
 
-table2 {
-  width: 100%;
-  border: 1px;
-}
-
-th2 {
-  font-weight: 500;
-}
-
-tr2{
-
-}
-td2 {
-  font-weight: 300;
-  text-align: left;
-  border: 0px solid #ebebeb;
-}
-
 form {
   padding: 20px;
   background: #f2f2f2;
