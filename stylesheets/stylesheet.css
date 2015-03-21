@@ -608,7 +608,7 @@ td {
 
 table2 {
   width: 100%;
-  border: 0px;
+  border: 1px;
 }
 
 th2 {
@@ -618,7 +618,7 @@ th2 {
 td2 {
   font-weight: 300;
   text-align: left;
-  border: 1px solid #ebebeb;
+  border: 0px solid #ebebeb;
 }
 
 form {
