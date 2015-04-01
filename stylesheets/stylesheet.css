@@ -455,6 +455,13 @@ header {
   border-bottom: solid 1px #275da1;
 }
 
+footer {
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-weight: 400;
+  text-align: center;
+}  
+
 header img{
   float: left;
 }
