@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Test Post"
-date:   2015-09-24 11:21:00
-categories: blog
+date:   2015-09-24
+categories: jekyll update
 ---
 
 Lorem Ipsum, etc....
