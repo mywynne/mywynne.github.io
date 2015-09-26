@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-knit
 title:  "Welcome to Jekyll!"
 date:   2014-04-06
 categories: posts
