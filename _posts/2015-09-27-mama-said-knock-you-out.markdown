@@ -18,4 +18,4 @@ And of course, I want to hear from you! Is there something you'd like me to writ
 
 And with that, I'll be back with you all soon enough. In the meantime, I think the inimitable LL Cool J said it best...
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/vimZj8HW0Kg" frameborder="0" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/vimZj8HW0Kg" frameborder="0" allowfullscreen></iframe></div>
