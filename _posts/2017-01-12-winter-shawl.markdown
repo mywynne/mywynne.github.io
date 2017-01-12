@@ -2,7 +2,7 @@
 layout: post-knit
 title:  "Winter Shawl"
 date:   2017-01-12
-categories: posts
+categories: 
 tags: michaelknits
 ---
 
