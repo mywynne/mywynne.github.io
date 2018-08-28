@@ -2,5 +2,21 @@
 layout: default
 title: Michael Wynne
 ---
-<!-- SnapWidget -->
-<iframe src="http://snapwidget.com/in/?u=bXl3eW5uZXxpbnwxMjV8NXwxfHxub3w1fG5vbmV8b25TdGFydHxub3xubw==&ve=210315" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:650px; height:130px"></iframe>
+
+grid.html
+<script>w=200;h=400;c0='red';c1='green';c2='blue';c3='yellow'</script>
+<table id="grid" style="border-collapse:collapse;color:transparent" />
+<script>
+$=document;M=Math;ce=(e)=>$.createElement(e);ac=(a,b)=>a.appendChild(b);r=(n)=>Array(n).keys()
+g=$.getElementById('grid')
+for (i of r(h)) {
+  p = ce('tr')
+  for (j of r(w)) {
+    c = ce('td')
+    c.innerHTML = 'M'
+    c.setAttribute('style', 'background-color:'+[c0,c1,c2,c3][M.floor(M.random() * 4)])
+    ac(p,c)
+  }
+  ac(g,p)
+}
+</script>
